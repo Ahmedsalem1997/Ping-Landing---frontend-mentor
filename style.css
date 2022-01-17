@@ -55,7 +55,9 @@ input[type="email"] {
     padding: 15px 230px 15px 20px;
     border-radius: 25px;
     border: 1px solid var(--gray);
-}
+    color: var(--gray);
+    opacity: 0.7;
+  }
 
 .btn {
     padding: 15px 50px;
